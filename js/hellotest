@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+'use strict';
+
+var p = process.stdout;
+
+p.write("Hi, world!")
